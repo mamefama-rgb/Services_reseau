@@ -1,0 +1,4 @@
+INSERT INTO employees (firstName, lastName, email, phone, position, department, hireDate) VALUES
+('Sall', 'Oumoul Khairy', 'oumul.com', '0123456789', 'Développeur', 'Informatique', '2023-01-15'),
+('Fall', 'Mame Fama', 'fama@gmail.com', '0987654321', 'Chef de projet', 'Informatique', '2022-05-20'),
+('Thiam', 'Halima Diawo', 'halima@gmail.com', '0147258369', 'Assistant RH', 'Ressources Humaines', '2021-07-30');
